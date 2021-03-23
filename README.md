@@ -2,7 +2,7 @@
 World Weather Comparison using EDA
 
 ### AIM OF THE PROJECT
-Build a real-time weather dataset of the top 10 countries(based on their GDP(economy) index, https://www.investopedia.com/insights/worlds-top-economies/) of the world such as 1. the United States, 2. China, 3.Japan, 4. Germany, 5. India, 6. The United Kingdom, 7. France, 8.  Italy,  9.Brazil,  10.  Canada. 
+Build a real-time weather dataset of the any 10 states of top 10 countries(based on their GDP(economy) index, https://www.investopedia.com/insights/worlds-top-economies/) of the world such as 1. the United States, 2. China, 3.Japan, 4. Germany, 5. India, 6. The United Kingdom, 7. France, 8.  Italy,  9.Brazil,  10.  Canada. 
 
 #### Collect  weather  data(of  all  the states  and  cities  of  the  top  10  countries)  such  as  temperature, humidity,  windspeed  of  July  2020
 #### (AccuWeather.com). Compile   them   in   10   different.csv   files   and   caption   it   as 'Country_Name_Weather_July.csv'.
